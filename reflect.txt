@@ -1,0 +1,15 @@
+// Name: Glib Zayarnyy
+// Seneca Student ID: 102086170
+// Seneca email: gzayarnyy@myseneca.ca
+// Date of completion: December 2nd, 2018
+//
+// I confirm that I am the only author of this file
+// and the content was created entirely by me.
+
+Reflection:
+
+This project has helped me sharpen my c++ skills in every category.
+
+Milestone 1 started out being fairly simple, It taught me various things such as how to parse strings and how to use static variables. Milestone 2 proved to be a little more difficult as i had to learn how to use an array of pointers and had to deal with a lot of memory leak problems. Milestone 3 was definitely the hardest milestone, it involved in a lot of inheritance and FIFO, LIFO in queues and deques.
+
+Overall this project has taught me a lot, i now feel more comfortable coding in c++ and have learned many new skills.
