@@ -1,4 +1,4 @@
-# OOP345 Final Project
+# BTP305 Final Project
 
 The purpose of this term project is to put my C++ Object Oriented skills to practice by developing a simulated Assembly Line.
 
@@ -149,5 +149,3 @@ Here you can find a documentation of the classes that are currently implemented:
 
 `void validateTasks() const`
    - Displays a list of all Tasks in the assembly line, as well as the next Task for each Task, or if a Task is the end of the assembly line.
-
-*My intention with uploading school assignments on GitHub is merely to build a portfolio of my work.* **_Please do not plagiarize._**
